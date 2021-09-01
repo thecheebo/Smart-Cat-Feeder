@@ -40,8 +40,12 @@ This solo project was completed for CS 498 Internet of Things during my Fall 202
 * [Wrapping Paper]
 * [Pringles Can]
 * [25 ounce or larger can]
+* [Eye Protection] ** DO NOT IGNORE **
 
 <p align="center">
   <img src="https://i.imgur.com/eWU46YJ.jpg" alt="Sparks flying" width=50% height=50%>
 </p>
+
+*Warning* Sparks flying while cutting metal. Please be sure to wear eye Protection
+
 
