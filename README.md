@@ -92,6 +92,7 @@ A 1.5 minute demonstration of Basil and I using it. <a href="https://youtu.be/Y3
 The purpose of the motion sensor is to activate the object detection algorithm. It's compute heavy and activates the camera. We don't want to always be running the camera, so a more low-powered approach is using a simple motion sensor for when Basil (cat) walks in front of the cat feeder, and only then it will start the object detection api.
 
 Attach your motion sensor like this:
+<br>
 ![image](https://i.imgur.com/AMcoCBn.png)
 
 
