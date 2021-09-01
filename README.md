@@ -8,9 +8,9 @@ This is a walkthrough of a raspberry-pi powered, motion sensing, AI-trained, cat
 
 </p>
 
-
+<li>A 1.5 minute demonstration of me using it.</li>
 <p align="center">
-  <img src="https://i.imgur.com/IoIKYRy.jpg" alt="Basil" width=42% height=42%>
+  <img src="https://drive.google.com/file/d/10Q047kPhI2vXiJifS_bm0hyX0ifWBeBV/view?ts=612fcb62" alt="Video Demonstration" width=42% height=42%>
   
 </p>
 
