@@ -1,6 +1,6 @@
 #  Smart Cat Feeder
 
-This is a walkthrough of my raspberry-pi powered, motion sensing, AI-trained, cat-detecting, publisher/subscriber broker (MQTT), app-enabled cat feeder. 
+This is a walkthrough of a raspberry-pi powered, motion sensing, AI-trained, cat-detecting, publisher/subscriber broker (MQTT), app-enabled cat feeder I built for my cat Basil (pictured below). 
 
 <img src="https://i.imgur.com/fXNZdzI.jpg" alt="Basil" width=50% height=50%>
 
