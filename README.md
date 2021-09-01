@@ -76,12 +76,10 @@ A 1.5 minute demonstration of Basil and I using it. <a href="https://youtu.be/Y3
   <img src="https://i.imgur.com/E65ZPac.jpg" alt="Can" width=25% height=25%>
   <img src="https://i.imgur.com/2wjBCXr.jpg" alt="Can" width=25% height=25%>
 </p>
-
-      <li>This step is optional but I wrapped my can with cute kitty wrapping paper, although dont get one that is glittery like my wife bought for me.</li>
+<li>This step is optional but I wrapped my can with cute kitty wrapping paper, although dont get one that is glittery like my wife bought for me.</li>
 <p align="center">
   <img src="https://i.imgur.com/VGxeo9c.jpg" alt="Can" width=33% height=33%>
   <img src="https://i.imgur.com/EETPAkK.jpg" alt="Can" width=33% height=33%>
-
 </p>
 
 
