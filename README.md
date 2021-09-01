@@ -166,7 +166,7 @@ def set_angle(angle):
     sleep(1)
     GPIO.output(3, False)
     pwm.ChangeDutyCycle(0)
-    ```
+```
 
 
 ## Usage
