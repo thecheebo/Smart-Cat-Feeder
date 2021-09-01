@@ -84,6 +84,9 @@ A 1.5 minute demonstration of Basil and I using it. <a href="https://youtu.be/Y3
   <img src="https://i.imgur.com/VGxeo9c.jpg" alt="Can" width=33% height=33%>
   <img src="https://i.imgur.com/EETPAkK.jpg" alt="Can" width=33% height=33%>
 </p>
+  <li>We'll come back to installing the pi/camera/motion sensor/servo after you've tested it all out.</li>
+</ol>
 
+## Motioni 
 
   
