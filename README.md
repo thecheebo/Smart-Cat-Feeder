@@ -168,6 +168,19 @@ def set_angle(angle):
     pwm.ChangeDutyCycle(0)
 ```
 
+Once you have played/installed with your servo, you can attach it to the bottom of the soup can and either use a combination of zipties or super glue to attach it there.
+
+<p align="center">
+  <img src="https://i.imgur.com/xXtNZJz.jpg" alt="servo" width=50% height=50%>
+</p>
+
+Then you can install the raspberry pi after you have connected the camera/motion detector/servo.
+
+<p align="center">
+  <img src="https://i.imgur.com/se5BejY.jpg" alt="servo" width=50% height=50%>
+</p>
+
+
 
 ## Usage
 
