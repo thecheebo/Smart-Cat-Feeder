@@ -77,12 +77,19 @@ This solo project was completed for CS 498 Internet of Things during my Fall 202
 <p align="center">
   <img src="https://i.imgur.com/f16LW5v.jpg" alt="Dremel" width=30% height=30%>
 </p>
-    <li>Make sure to cut a hole in the back for the raspberry pi power cable, 4 holes for the servo, and an opening for the food to dispense.</li>
+    <li>Make sure to cut a hole in the back for the raspberry pi power cable, 4 holes for the servo, and an opening for the food to dispense. Insert zip ties to attach MG995 servo.</li>
 <p align="center">
   <img src="https://i.imgur.com/3NrEfJe.jpg" alt="Can" width=25% height=25%>
   <img src="https://i.imgur.com/1u4yxFE.jpg" alt="Can" width=25% height=25%>
   <img src="https://i.imgur.com/E65ZPac.jpg" alt="Can" width=25% height=25%>
   <img src="https://i.imgur.com/2wjBCXr.jpg" alt="Can" width=25% height=25%>
+</p>
+
+      <li>This step is optional but I wrapped my can with cute kitty wrapping paper, although dont get one that is glittery like my wife bought for me.</li>
+<p align="center">
+  <img src="https://i.imgur.com/VGxeo9c.jpg" alt="Can" width=33% height=33%>
+  <img src="https://i.imgur.com/EETPAkK.jpg" alt="Can" width=33% height=33%>
+
 </p>
 
 
