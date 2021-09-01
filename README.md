@@ -60,13 +60,20 @@ This solo project was completed for CS 498 Internet of Things during my Fall 202
   <img src="https://i.imgur.com/qM7iksl.jpg" alt="Soup Can" width=40% height=40%>
    <img src="https://i.imgur.com/PZrSutT.jpg" alt="Pringles Can" width=40% height=40%>
 </p>
+  
 <li>Get out a .5 inch spade bit from your drill bit set, and WEAR YOUR EYE PROTECTION</li>
 <p align="center">
   <img src="https://i.imgur.com/xCzJe0y.jpg" alt=".5 inch spade bit" width=40% height=40%>
-
 </p>
+   
   <li>It should look like this afterwards</li>
 <p align="center">
-  <img src="https://i.imgur.com/oTw5e34.jpg" alt=".5 inch spade bit" width=30% height=30%>
+  <img src="https://i.imgur.com/oTw5e34.jpg" alt="Can with hole in it" width=30% height=30%>
 </p>
+  
+  <li>Time to break out the dremel. Keep your eye pro on. If you havnt used it before, watch some youtube videos please. <a href="https://photos.app.goo.gl/gx8oZPCbP9pxyYsP8">Here is a link of me using it.</a></li>
+<p align="center">
+  <img src="https://i.imgur.com/f16LW5v.jpg" alt="Dremel" width=30% height=30%>
+</p>
+
   
