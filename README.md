@@ -95,15 +95,38 @@ Attach your motion sensor like this:
 <br>
 ![image](https://i.imgur.com/AMcoCBn.png)
 
+Here is a good tutorial if you are having difficulty but it is pretty self exaplanatory. 
+https://projects.raspberrypi.org/en/projects/parent-detector/1
 
+<p align="center">
+  <img src="https://i.imgur.com/jaRkhX7.jpg" alt="Installed in the back" width=50% height=50%>
+
+</p>
 
 ## Dectection
+
+Install the rapberry camera pi. There are a few tutorials on how to do so, so there is no need to repeat their great work:
+https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
+https://thepihut.com/blogs/raspberry-pi-tutorials/16021420-how-to-install-use-the-raspberry-pi-camera
+
+After you have installed the camera and tests that it has worked. Please check out TensorFlow's object detection API that was designed and specialized for Raspberry Pi.
+The AI model has been trained to detect 100 or so items. You can check out the list and instructions on the link.
+
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi
+
 
 ## Servo
 
 ## Usage
 
+
+
 ## Credits
+
+https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi
+
+https://www.youtube.com/watch?v=dqr-AT5HvyM
+
 
 ## License
 
