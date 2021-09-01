@@ -4,9 +4,11 @@ This is a walkthrough of a raspberry-pi powered, motion sensing, AI-trained, cat
 
 <p align="center">
   <img src="https://i.imgur.com/fXNZdzI.jpg" alt="Basil" width=42% height=42%>
+  <p>Center this text!</p>
 </p>
 <center>*Basil*</center>
 <p style="text-align:center">Center this text!</p>
+
 <p align="center">
   <img src="https://i.imgur.com/IoIKYRy.jpg" alt="Basil" width=42% height=42%>
   
