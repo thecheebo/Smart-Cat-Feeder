@@ -37,6 +37,7 @@ This solo project was completed for CS 498 Internet of Things during my Fall 202
 * [Any Power Drill]
 * [Pringles Can]
 * [25 ounce or larger can]
+* [Zip ties or super glue]
 * [Eye Protection] ** DO NOT IGNORE **
 
 <p align="center">
