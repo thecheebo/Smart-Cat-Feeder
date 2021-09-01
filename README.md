@@ -122,8 +122,52 @@ The AI model has been trained to detect 100 or so items. You can check out the l
 
 https://github.com/EdjeElectronics/TensorFlow-Object-Detection-on-the-Raspberry-Pi
 
+When you have finished the guide take a look at `tf_image_dection.py` file which includes the following code:
+```
+ for detected_obj_data in results:
+              if detected_obj_data["label"] in ['cat']:
+                print (detected_obj_data["label"], "has been detected")
+                return True
+```
+When motion is sensed, and activates the object detection, it will put into a list, from the `detect_objects` method. 
+
+```
+def detect_objects(interpreter, image, threshold, labels):
+  """Returns a list of detection results, each a dictionary of object info."""
+  set_input_tensor(interpreter, image)
+  interpreter.invoke()
+  ```
+
 
 ## Servo
+
+If you have never worked with servos, then it is a good time to read a guide or two on how to control servo motors on the raspberry pi.
+
+https://www.digikey.com/en/maker/blogs/2021/how-to-control-servo-motors-with-a-raspberry-pi
+
+https://pypi.org/project/RPi.GPIO/ 
+
+Here is the method to set the angle of the servo, which activates using the `GPIO` library.
+
+
+
+
+```
+pwm = GPIO.PWM(3, 50)
+
+pwm.start(0)
+
+def set_angle(angle):
+    
+    duty = angle / 18 + 2
+    
+    GPIO.output(3, True)
+    pwm.ChangeDutyCycle(duty)
+    sleep(1)
+    GPIO.output(3, False)
+    pwm.ChangeDutyCycle(0)
+    ```
+
 
 ## Usage
 
