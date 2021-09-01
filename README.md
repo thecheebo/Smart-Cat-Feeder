@@ -14,6 +14,9 @@ A 1.5 minute demonstration of Basil and I using it. <a href="https://youtu.be/Y3
 ## Table of Contents  
 [Materials](#materials)  
 [Installation](#installation)  
+[Motion Sensing](#motion) 
+[Google's Object Detection API](#detection)
+[Servo's](#servo)
 [Usage](#usage)   
 [Credits](#credits) <br>
 [License](#license) 
