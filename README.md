@@ -28,8 +28,6 @@ This solo project was completed for CS 498 Internet of Things during my Fall 202
 
 ## Materials
 
-
-
 * [Dremel: $60](https://www.amazon.com/Dremel-3000-1-24-Attachment-Accessories/dp/B005JRJE56/ref=sr_1_8?dchild=1&keywords=dremel&qid=1630520111&sr=8-8)
 * [Raspberry Pi 4 Model B 4gb: $55](https://www.adafruit.com/product/4296)
 * [Raspberry Pi Camera Module 2: $30](https://www.raspberrypi.org/products/camera-module-v2/)
@@ -37,7 +35,6 @@ This solo project was completed for CS 498 Internet of Things during my Fall 202
 * [Power Supply 3A: $7](https://www.amazon.com/Power-Supply-Adapter-Switch-Raspberry/dp/B07TSDJSQH/ref=sr_1_8?dchild=1&keywords=3a+power+supply+adapter+raspberry+pi&qid=1630198961&sr=8-8)
 * [Double Cat Feeder Bowls: $9](https://www.amazon.com/UPSKY-Double-Premium-Stainless-Modeling/dp/B07LF1JLZ6/ref=sr_1_5?dchild=1&keywords=double+cat+feeder+bowl+eyes&qid=1630521009&sr=8-5)
 * [Any Power Drill]
-* [Wrapping Paper]
 * [Pringles Can]
 * [25 ounce or larger can]
 * [Eye Protection] ** DO NOT IGNORE **
@@ -48,4 +45,19 @@ This solo project was completed for CS 498 Internet of Things during my Fall 202
 
 *Warning* Sparks flying while cutting metal. Please be sure to wear eye Protection
 
+
+## Installation
+
+<ol>
+<li>Get both your pringles can and soup can and remove the paper wrapping from the soup can. You can use wrapping paper on your pringles to make it look nicer at the end but thats optional.
+  </li>
+<p align="center">
+  <img src="https://i.imgur.com/T2DxYku.jpg" alt="Cans" width=40% height=40%>
+</p>
+
+<li>Get a sharpie and mark the bottom of both cans like this:</li>
+<p align="center">
+  <img src="https://i.imgur.com/qM7iksl.jpg" alt="Soup Can" width=40% height=40%>
+   <img src="https://i.imgur.com/PZrSutT.jpg" alt="Pringles Can" width=40% height=40%>
+</p>
 
