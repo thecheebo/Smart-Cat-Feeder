@@ -99,9 +99,10 @@ Here is a good tutorial if you are having difficulty but it is pretty self exapl
 https://projects.raspberrypi.org/en/projects/parent-detector/1
 
 <p align="center">
-  <img src="https://i.imgur.com/jaRkhX7.jpg" alt="Installed in the back" width=50% height=50%>
-
+  <img src="https://i.imgur.com/PmcHlVR.jpg?1" alt="Installed in the back" width=50% height=50%>
+  <h4 align="center">Here is the sensor on the top and the camera in the middle.</h4>
 </p>
+
 
 ## Dectection
 
