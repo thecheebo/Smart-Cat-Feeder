@@ -19,7 +19,7 @@ This solo project was completed for CS 498 Internet of Things during my Fall 202
 
 
 
-#### Table of Contents  
+## Table of Contents  
 [Materials](#materials)  
 [Installation](#installation)  
 [Usage](#usage)   
