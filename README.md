@@ -26,8 +26,6 @@ This solo project was completed for CS 498 Internet of Things during my Fall 202
 [Credits](#credits) 
 [License](#license) 
 
-
-
 ## Materials
 
 
