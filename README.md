@@ -7,7 +7,7 @@ This is a walkthrough of a raspberry-pi powered, motion sensing, AI-trained, cat
   <h4 align="center">Basil</h4>
 </p>
 
-A 1.5 minute demonstration of Basil and I using it. <a href="https://youtu.be/Y3K3dwvThA8">Here is a link of me using it. This solo project was completed for CS 498 Internet of Things during my Fall 2020 semester at University of Illinois Urbana-Champaign.
+A 1.5 minute demonstration of Basil and I using it. <a href="https://youtu.be/Y3K3dwvThA8">Here is a link of me using it. </a>This solo project was completed for CS 498 Internet of Things during my Fall 2020 semester at University of Illinois Urbana-Champaign.
 
 
 
