@@ -32,6 +32,7 @@ This solo project was completed for CS 498 Internet of Things during my Fall 202
 * [Raspberry Pi 4 Model B 4gb: $55](https://www.adafruit.com/product/4296)
 * [Raspberry Pi Camera Module 2: $30](https://www.raspberrypi.org/products/camera-module-v2/)
 * [Motion Sensor: $8](https://www.amazon.com/HiLetgo-HC-SR501-Infrared-Sensor-Arduino/dp/B07KZW86YR/ref=sr_1_5?dchild=1&keywords=raspberry+pi+motion+sensor&qid=1630521087&sr=8-5)
+* [Servo MG995/MG996R: $10](https://www.amazon.com/Digital-Steering-Control-Helicopter-Airplane/dp/B08TWZNZC8/ref=sr_1_8?dchild=1&keywords=MG996R&qid=1630522971&s=industrial&sr=1-8)
 * [Power Supply 3A: $7](https://www.amazon.com/Power-Supply-Adapter-Switch-Raspberry/dp/B07TSDJSQH/ref=sr_1_8?dchild=1&keywords=3a+power+supply+adapter+raspberry+pi&qid=1630198961&sr=8-8)
 * [Double Cat Feeder Bowls: $9](https://www.amazon.com/UPSKY-Double-Premium-Stainless-Modeling/dp/B07LF1JLZ6/ref=sr_1_5?dchild=1&keywords=double+cat+feeder+bowl+eyes&qid=1630521009&sr=8-5)
 * [Any Power Drill]
