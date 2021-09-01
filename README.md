@@ -5,12 +5,13 @@ This is a walkthrough of a raspberry-pi powered, motion sensing, AI-trained, cat
 <p align="center">
   <img src="https://i.imgur.com/fXNZdzI.jpg" alt="Basil" width=42% height=42%>
 </p>
-
+<center>*Basil*</center>
 
 <p align="center">
   <img src="https://i.imgur.com/IoIKYRy.jpg" alt="Basil" width=42% height=42%>
-  Cat Feeder
+  
 </p>
+<center>*Cat Feeder*</center>
 
 
 This solo project was completed for CS 498 Internet of Things during my Fall 2020 semester at University of Illinois Urbana-Champaign.
