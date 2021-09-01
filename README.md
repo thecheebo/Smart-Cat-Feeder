@@ -2,7 +2,7 @@
 
 This is a walk through of my motion sensing, cat detecting, raspberry-pi powered, publisher/subscriber broker, app-enabled cat feeder. 
 
-<img src="https://i.imgur.com/5XSXLmu.jpg" alt="4 Raspberry Pi's 4s" width=50% height=50%>
+<img src="https://i.imgur.com/fXNZdzI.jpg" alt="Basil" width=50% height=50%>
 
 This solo project was completed for CS 498 Internet of Things during my Fall 2020 semester at University of Illinois Urbana-Champaign.
 
