@@ -184,6 +184,9 @@ Then you can install the raspberry pi after you have connected the camera/motion
 
 ## Usage
 
+Watch this introduction to the MQTT broker (pub/sub) platform. 
+
+https://www.youtube.com/watch?v=EIxdz-2rhLs
 
 
 ## Credits
